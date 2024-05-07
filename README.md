@@ -1,1 +1,1 @@
-Reemplazar tu-api.key por tu propia api link registrandote en weather
+Reemplazar TU-API.KEY por tu propia api link registrandote en weather
